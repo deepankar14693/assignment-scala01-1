@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:16:41: too many arguments (4) for method binarySearch: (array: Array[Int], elem: Int)Boolean[0m
+[0m[[0m[31merror[0m] [0m[0m    return binarySearch(array, mid + 1, last, key)[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

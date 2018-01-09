@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/Downloads/assignment-scala01-1/scalastyle-config.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:17:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:34:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:49:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:7:4: Regular expression matched 'println'[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:39:4: Regular expression matched 'println'[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:9:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:11:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:12:3: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:14:2: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:23:3: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:25:3: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:32:4: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:34:2: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:8:3: If block needs braces[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:10:3: If block needs braces[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:22:2: If block needs braces[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:31:3: If block needs braces[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala: File must end with newline character[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 2 file(s)[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 18 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 11 ms[0m
